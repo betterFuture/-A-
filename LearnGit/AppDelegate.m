@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     
     NSLog(@"diyici修改");
+    NSLog(@"我的第二次修改");
     
     
     
